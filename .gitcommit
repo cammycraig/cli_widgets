@@ -1,0 +1,21 @@
+Fix X to allow Y to use Z
+
+# Resolves: #123
+# See also: #456, #789
+#
+# Commit message examples:
+# -----------------------
+# - Fix a
+# - Remove b
+# - Update c
+#
+# Include Co-authored-by for all contributors.
+# Include at least one empty line before it. Format:
+# Co-authored-by: name <user@users.noreply.github.com>
+#
+# References:
+# ----------
+# - https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+# - https://www.conventionalcommits.org/en/v1.0.0/
+# - https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/ 
+# - https://cbea.ms/git-commit/
